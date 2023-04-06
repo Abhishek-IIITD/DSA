@@ -1,1 +1,1 @@
-# AI
+Data Structures and Algorithms Practice
